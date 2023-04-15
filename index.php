@@ -79,7 +79,7 @@ margin-top: 16px;
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a class="logo" href="index.html">
+				<a class="logo" href="index.php">
 					<img src="assets/images/logo/logo-light.png" width="316" height="63" alt="Yellow Hats">
 				</a>
 			</div>
@@ -92,15 +92,15 @@ margin-top: 16px;
 					</li>
 					<!-- li end -->
 					<li class="has-dropdown">
-						<a href="about.html" class="dropdown-toggle">Tentang Kami</a>
+						<a href="about.php" class="dropdown-toggle">Tentang Kami</a>
 					</li>
 					<!-- li end -->
 					<li class="has-dropdown">
-						<a href="kontak.html" class="dropdown-toggle">Kontak</a>
+						<a href="kontak.php" class="dropdown-toggle">Kontak</a>
 					</li>
 					<!-- li end -->
 					<li class="has-dropdown">
-						<a href="produk.html" class="dropdown-toggle">Produk</a>
+						<a href="produk.php" class="dropdown-toggle">Produk</a>
 					</li>
 				</ul>
 				
@@ -972,16 +972,16 @@ margin-top: 16px;
 						<div class="col-xs-12 col-sm-12 col-md-12">
 							 <ul class="list-unstyled text-capitalize">
 								<li>
-									<a href="index.html"> Home</a>
+									<a href="index.php"> Home</a>
 								</li>
 								<li>
-									<a href="about.html"> Tentang Kami</a>
+									<a href="about.php"> Tentang Kami</a>
 								</li>
 								<li>
-									<a href="kontak.html"> Kontak</a>
+									<a href="kontak.php"> Kontak</a>
 								</li>
 								<li>
-									<a href="produk.html"> Produk</a>
+									<a href="produk.php"> Produk</a>
 								</li>
 							</ul>
 						</div>
