@@ -3380,7 +3380,6 @@ li.dropdown-submenu.pull-left > ul.dropdown-menu {
 }
 
 .heading h2:after {
-	content: ".";
 	color: #ffc527;
 	font-size: 35px;
 	display: inline-block;
